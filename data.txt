@@ -1,0 +1,501 @@
+F-CAPS is a regimen of five marketed, inexpensive, repurposed drugs that inhibit glioblastoma growth and are concentrated in brain tissue
+
+ABSTRACT
+1.     Introduction.
+2.     Fluphenazine
+2.A.   fluphenazine, D3, the subventricular zone, and GB
+2.B.   D2, D3 and GB
+2.C.   fluphenazine and Substance P
+2.D.   fluphenazine and PP2A:
+2.E.   fluphenazine, PP2A and FOXO3a
+3.       Chlorpheniramine
+3.A.   H1 inverse agonism
+3.B.   amphiphile attributes and lysosomes
+4.      azithromycin
+5.      Pyrimethamine
+5.A.   Pyrimethamine inhibition of DHFR
+5.B.   Pyrimethamine, STAT3, and MDSC
+5.C.   Pyrimethamine inhibition of thymidine phosphorylase
+5.D.   thymidine phosphorylase as angiogenic factor
+5.E.   Pyrimethamine and immune function
+6.       Sertraline
+6.A.   Repressor element-1 silencing transcription factor.
+6.B.   sertraline in GB, empirical data
+6.C.   sertraline and translationally controlled tumor protein
+7.      discussion
+8.      Conclusions
+
+
+
+
+blood-brain barrier (BBB); dihydrofolate reductase (DHFR),  glioblastoma (GB), blood-brain barrier (BBB), STAT3 (Signal transducer and activator of transcription 3), temozolomide (TMZ), G protein receptor (GPR); subventricular zone (SVZ); myeloid derived suppressor cells’ (MDSC); protein phosphatase 2A (PP2A); translationally controlled tumor protein (TCTP);
+
+to keep things simpler, several times the long form is retained even after the abbreviation given. the abbreviation is given in these cases to help those who know the protein by that abbreviation.
+
+
+
+1. Introduction
+
+This paper is an overview of F-CAPS, another multidrug repurposed adjuvant regimen designed to improve current treatment of glioblastoma (GB). F-CAPS is designed to be given after the current standard of temozolomide (TMZ) chemoirradiation. F-CAPS differs from all previous multidrug repurposed regimens in that i) all 5 drugs are naturally concentrated in brain tissue at levels many times greater than plasma levels, and ii) all the F-CAPS drugs are cheap, generic, and well established in non-oncology medical practice. In common with previous multidrug repurposed adjuvant regimens for treating GB, all F-CAPS drugs have sound preclinical evidence and rationale for their inhibition of GB growth. That data is outlined in this paper.
+
+The F-CAPS drugs are i) the phenothiazine psychiatric drug fluphenazine, ii) the widely used antihistamine chlorpheniramine, iii) the common antibiotic azithromycin, iv) the antibiotic pyrimethamine, and v) the common antidepressant sertraline. Criteria for selection in F-CAPS regimen was that the drug must 1) have established preclinical or clinical data for an anti glioma effect, 2) concentrate in brain at levels considerably greater than in blood or plasma, 3) be cheap, already marketed and 4) have a low risk of imposing side effect burden. All five F-CAPS drugs meet these criteria.
+
+Several previous repurposed multidrug adjuvant regimens for GB coming out of the IIAIGC Study Center have been analyzed in recent years [1-11]. Table 1 gives an overview of these regimens. Table 2 lists several similar regimens using repurposed non-oncology drugs to augment standard GB treatment devised by other researchers not affiliated with the IIAIGC Study Center [12-18].
+
+CUSP9v3 is a repurposed 9 daily drug regimen designed to be used together with TMZ in treating GB that came out of the IIAIGC Study Center that gave signal of benefit in a 10 patient phase 1 clinical trial [3]. Some of the CUSP9v3 drugs were expensive. F-CAPS is designed to be an affordable option, albeit one targeting a slightly different set of GB growth elements.
+
+Dozens of papers that are not further discussed here, have shown single repurposed drug augmentation of TMZ in vitro or in xenograft or other murine GB models. The studies listed in Tables 1 and 2 are the only proposed and published, specific multidrug repurposed adjuvant regimens for GB [1-18]. Table 3 lists non-oncology drugs in general medical use that have been used or proposed for use as part of one of these multidrug regimens proposed or actually used as adjunct to standard GB treatment.
+
+The rationale that forms the foundation for the use of repurposed drugs from general medicine have been discussed in dozens of articles in the last two years [19-22]. Summarized:
+
+They are already approved for medical use.
+They are generally cheap and readily available worldwide.
+General practitioners and family physicians are already familiar with their use.
+They have well-known and low risk of side effects.
+Since cancer cells, including GBs, pathologically engage the same physiological systems as used by non-malignant tissues for their homeostatic and adaptive physiological functioning, many drugs have been developed for influencing those core systems.
+Many drugs may be needed to address tumors’ readily evolving resistance pathways and their shifting reliance on multiple alternate growth drives.
+Directly cytotoxic, genotoxic drugs have limits on how many and how much they can be used.
+Inherent multiple subpopulations exist in GB, each with its own particular set of growth drives and inhibition susceptibilities.
+Some of the small mol.wt. repurposed drugs readily penetrate into brain tissue.
+
+Why the necessity of a multidrug regimen, why adding any one or two drugs cannot be expected to be of much help in treating GB, has been amply reviewed elsewhere [23-26, 27z, Westermarck23].
+
+Quoting Nguen et al, “...effective treatment for radioresistant GBs may require a cocktail containing multiple agents targeting multiple cancer-inducing pathways in order to have a chance to make a substantial impact on improving the overall GBM survival.” [23]. Or paraphrasing Palmer et al, an effective cancer therapy may require drug combinations that are independently effective, with non overlapping mechanisms of action, and non-overlapping resistance pathways [28]. Quoting Kilmister et al “...effective treatment of cancer may require a multi-target strategy with multi-step inhibition of signaling pathways...in lieu of the long-standing pursuit of a 'silver-bullet' single-target approach” [29]. Or "One conceivable strategy to circumvent (GB's)  intractability" (is) "to concomitantly disrupt multiple capabilities required for tumor progression and therapeutic resistance" [Chryplewicz]. Or as Clark Chen’s group advocated “simultaneous inactivation of critical nodes within the glioblastoma molecular circuitry will be required for meaningful clinical efficacy...” [30].
+
+Multiple neurotransmitters are active in maintaining the aggressive growth and vigor of GB cells and their supporting stroma [Shi]. As a consequence, CUSP9v3, the current F-CAPS regimen, and many of the drugs used in other multidrug regimens for GB target one or more neurotransmitters, as listed in Tables 1, 2, and 3.
+
+Of the regimens listed in Table 1, only two have undergone a phase 1 trial in recurrent GB - CUSP9v3 and the study of Maraka et al [3, 13]. Both regimens were well tolerated. Both were pilot studies, so, although they gave a signal of potential benefit, the numbers tested were too small for statistical inference.
+
+F-CAPS was designed to obviate three core problems that have hindered formal study of past repurposed multidrug regimens, namely: i) fears of side effects, ii) expense of the suggested drugs, and iii) concerns of poor blood-brain barrier (BBB) penetration. Therefore the F-CAPS drugs were selected to meet the following criteria: 1) be cheap, 2) be readily available, 3) have low risk of side effects, 4) be proven to selectively concentrate in brain tissue, having brain levels many times greater than blood levels, 5) have both good preclinical data for GB growth inhibition with 6) a sound rationale for GB growth inhibition. The F-CAPS drugs will be discussed in the following sections.
+
+2. Fluphenazine
+
+Fluphenazine is a phenothiazine class, first generation antipsychotic drug used since the 1950s to treat psychosis [Siragusa]. It has low nanomolar antagonism at dopamine receptors D2, D3, and 5-HT7 (serotonin receptor 7). Prior recent reviews outline several aspects of antipsychotic drugs' intersection with GB growth pathways in ways that we can expect will help slow GB growth [Duarte, Kast, Shaw, Awuah, Otręba, Persico]. Dopaminergic signaling is central to GB growth, elements of which are outlined here.
+
+Although many newer drugs have been marketed to treat psychosis in recent years, fluphenazine remains in use worldwide to treat psychoses or thought structure disorders by virtue of its blocking the dopamine receptor 2 (D2) [Siragusa]. Blood levels of fluphenazine are highly variable. Cmax was 6 ng/ml plasma after 20 mg po in psychiatric patients. In tissue collected during brain tumor surgery, fluphenazine brain levels in humans were 10 to 30 fold higher in brain various regions tested than in plasma [Sunderland, Cohen, Tsuneizumi]. In a rat study, after oral fluphenazine, plasma level was 98 ng/ml when overall brain tissue level was 1611 ng/g, a 16:1 brain to blood ratio [Aravagiri]. A similar study in mice gave a fluphenazine brain:plasma of 25:1 where fluphenazine alone inhibited xenografted triple negative breast cancer growth [XuF].
+
+Fluphenazine is closely related structurally, receptor profile wise, and clinically to other widely used phenothiazine antipsychotic drugs chlorpromazine, perphenazine, and trifluoperazine. Like many other D2 antagonists, fluphenazine reduces nausea and emesis [Mellink].
+
+Steady state levels of fluphenazine can vary between individuals by 40-fold [Dysken]. Half life tends to be around 16 h but also with great variability.
+
+Fluphenazine had an IC50 of ~20 microM to GB cell lines, as did related phenothiazines chlorpromazine and perphenazine [Gil-Ad]. Fluphenazine [Menilli].
+
+Preclinical data showed that fluphenazine augmented cytotoxicity of traditional cytotoxic cancer chemotherapy drugs. Fluphenazine sensitized GB cells to several candidate oncolytic viruses [Berghauser]. Eribulin is a marine sponge derived microtubule function inhibitor marketed to treat cancer. In human oral squamous carcinoma cells that are highly resistant to eribulin, fluphenazine reversed that resistance [Cheon].
+
+In a breast cancer cell line resistant to doxorubicin, fluphenazine reversed that resistance [Ford]. Fluphenazine inhibited melanoma cells’ growth in vitro and in an experimental melanoma metastasis model [Xi].
+
+Across a wide panel of cancer cells, cytotoxicity of fluphenazine was proportional to cells' expression of Toll Like Receptor 9 [Ping].
+
+2.A. fluphenazine, D3, the subventricular zone, and GB
+
+The subventricular zone (SVZ) lining the lateral ventricles is one of the few sources of new neurons in normal humans. Subventricular zone cells are driven to migrate from the subventricular zone by dopamine acting at the D3 receptor [O'Keeffe, KastRE14, Garcia-Garrote].
+
+GB cells have a bilateral migratory and trophic relationship with the SVZ [Lombard, Beiriger, Caretti, Da-Veiga, Zhang S]. Recent reviews detail evidence assembled over the last decade that GB cells' of origin lie within the SVZ [Lee JH, Beiriger, Zhang GL, Hira]. Since D3 agonism is one of the drivers of SVZ cells centrifugal migration perphenazine, a clinically used D2/D3 blocking antipsychotic drug [Kast RE14]. Fluphenazine is equipotent to perphenazine in D3 inhibition. Chlorpromazine also has low nanomolar inhibition at D3 [Arima]. Commensurate with this D3 inhibition, chlorpromazine decreased rat SVZ stem cell neurogenesis [Skałbania].
+
+This relationship of gliomas to the SVZ also holds for diffuse midline gliomas, and diffuse intrinsic pontine gliomas (DIPG) in children [Caretti, Da-Veiga, Jiao, Lombard, Mistry]. Thus fluphenazine has therapeutic potential in these gliomas as well.
+
+2.B. D2, D3 and GB
+
+It should be noted that D2 can heterodimerize with a variety of partners including  other dopamine receptors, D1–D2, D1–D3, D2–D3, D2–D4, and D2–D5, GPCRs, adenosine, N-methyl-D-aspartate glutamate, corticotrophin-releasing hormone, neurotensin, serotonin, histamine, and beta-arrestin [Channer, Faron]. The complex D2 with beta-arrestin is of particular interest in that this dimer forms a trimer with PP2A. D2 can also heterodimerize with the bradykinin receptor B2 [Niewiarowska,Niewiarowska]. Of the 5 dopamine receptors (D1 to D5), D2 overexpression is associated with shorter survival in colorectal cancer, endometrial cancer, and pancreatic ductal adenocarcinoma [Pierce, Lee]. In preclinical models, D2 antagonists suppressed growth and metastatic ability in models of colon cancer, breast cancer, glioma, and pancreatic ductal adenocarcinoma [Lee, Matteoni, Tegowski, Jandaghi].
+
+As of 2023, all currently used medicines to treat psychosis - and there are over twenty of them - inhibit function of D2 receptors, albeit to widely varying degrees [Karr]. The slightly reduced incidence of cancers, GB among those, in people with schizophrenia lead to suspicions that D2 inhibiting antipsychotics may be part of the reason for this [Csatary, Shaw, Barak].
+
+Of the antipsychotic drugs used at the time of such epidemiological studies, phenothiazine class predominated. However first, second and third generation non-phenothiazine antipsychotics also have been shown to inhibit one or more of the ten cancer malignancy hallmarks originally identified and described by Hannah and Weinberg [Persico]. Table 3 is a remarkable list of marketed and approved D2 blocking drugs that have been found to have GB growth inhibiting effects in preclinical study. Note that some are phenothiazines (9 of the 18 drugs) others are of diverse chemical classes.
+
+Pace et al designed the first phase II clinical trial, RACTAC, involving the combination of the first-generation antipsychotic chlorpromazine with TMZ in the adjuvant phase of treatment in un-methylated GB patients [Pace]. This study met the primary endpoint with a median progression-free survival of 7.3 months against the 4.9 months of the historical cohort. Interestingly, a phase I clinical trial has been bypassed because of the well-established chlorpromazine pharmacokinetic and pharmacodynamic data and side effects profile [Abbruzzese]. Considering that also fluphenazine has well-defined pharmacological properties due to its use since the 1950s, the precedent of RACTAC posits a rationale for phase 2 clinical study with fluphenazine, bypassing phase I study.
+
+A phase 2 trial in GB with the D2 antagonist ONC201 did not achieve the primary endpoint of progression-free survival >30% at six months [Arrillaga-Romany]. But nor would we expect it to be strongly mitigating [23-26, 27z, Johanssen]. As we have repeatedly argued elsewhere and mentioned here in the Introduction section above, given the multiple cross-covering growth drives in GB, if any one or two become blocked the others will take over growth promotion driving.
+
+Fluphenazine is not a "clean" drug but that might work in our favor. Fluphenazine has multiple other biochemical effects that may or may not be related to D2 inhibition and may or may not be responsible for its GB inhibiting effect. As is typical for the first generation phenothiazine antipsychotic medicines, fluphenazine inhibits many receptors and processes, and many of those inhibited receptors and processes have been shown to participate in GB growth mechanisms, see Table 4.
+
+Since we require a multitargeted mechanism of action and the many attributes of fluphenazine interfere with known GB growth aspects, having such a multifunction drug is useful [23-26, 27z, You, Johanssen, Racz].
+
+2.C. autophagy
+
+The dopamine receptors differently regulate autophagy: D2 and D3 (D2-like family) are
+positive regulators, whereas D1 and D5 (D1-like family) are negative regulators. Moreover, stimulation of D2 and D3 receptors may induce beclin-1-dependent autophagy in neurons. Because phenothiazine derivatives are antagonists of D2-like family receptors, it indicates that dopaminergic blockade is involved in autophagy induction—for example, fluphenazine, methotrimeprazine, pimozide, and trifluoperazine are able to stimulate neuronal autophagy. [Vucicevic].
+
+2.C. fluphenazine and Substance P
+
+Substance P (NK-1) is an 11 amino acid neuroexcitatory peptide active in promoting GB growth [Suthiram, Muñoz, Mehboob]. Across the common cancers Substance P is frequently overexpressed and is a growth driving stimulus [Muñoz, Esteban, García-Aranda].
+
+Substance P is a proteolytic product of large mol. wt. protachykinin. Fluphenazine decreased normal rat striatal protachykinin mRNA levels by 22-40% [Angulo]. Since Substance P is an emetic stimulus i.a., could fluphenazine’s down regulation of protechykinin be the origin of fluphenazine’s anti-emetic effect ? The CUSP9v3 protocol for treating GB uses aprepitant, a specific and expensive, inhibitor of Substance P receptor [3, 3a, 24, 25].
+
+Palliative irradiation of DIPG is standard of care in 2023 [Zaghloul 16, Zaghloul 22]. GB stem cells are resident in the SVZ and are found in relatively high numbers in hypoxic areas within a GB.  GB stem cells are relatively radioresistant compared to the non-stem population [Lombard, Cameron, Vallard]. Inhibition of acid sphingomyelinase by fluphenazine resulted in intracellular accumulation of sphingomyelin in lysosomes and in vitro colon cancer cell death, but only under hypoxia [Klutzny]. Thus adding fluphenazine is predicted to enhance palliative irradiation in GB and DIPG.
+
+2.D. fluphenazine and PP2A:
+
+We recently demonstrated that prolonged stimulation of D2 class receptors leads to specific dephosphorylation/inactivation of the serine/threonine kinase Akt on its regulatory Thr308 residue (Beaulieu et al., 2004). Interestingly, phosphorylation of Akt on its second regulatory residue (Ser473) was not affected by DA (Beaulieu et al., 2004). Moreover, depletion of striatal DA in DAT-KO mice or D2 class-receptor blockade resulted in enhanced phosphorylation/activation of Akt, thus indicating that D2 class receptors are responsible for the regulation of Akt by DA (Beaulieu et al., 2004, Emamian et al., 2004).Dopamine plays an important role in the etiology of schizophrenia, and D2 class dopamine receptors are the best-established target of antipsychotic drugs. Here we show that D2 class-receptor-mediated Akt regulation involves the formation of signaling complexes containing beta-arrestin 2, PP2A, and Akt. beta-arrestin 2 deficiency in mice results in reduction of dopamine-dependent behaviors, loss of Akt regulation by dopamine in the striatum, and disruption of the dopamine-dependent interaction of Akt with its negative regulator, protein phosphatase 2A. Importantly, canonical cAMP-mediated dopamine-receptor signaling is not inhibited in the absence of beta-arrestin 2. These results demonstrate that, apart from its classical function in receptor desensitization, beta-arrestin 2 also acts as a signaling intermediate through a kinase/phosphatase scaffold. Furthermore, this function of beta-arrestin 2 is important for the expression of dopamine-associated behaviors, thus implicating beta-arrestin 2 as a positive mediator of dopaminergic synaptic transmission and a potential pharmacological target for dopamine-related psychiatric disorders. Beaulieu JM, Sotnikova TD, Marion S, Lefkowitz RJ, Gainetdinov RR, Caron MG. An Akt/beta-arrestin 2/PP2A signaling complex mediates dopaminergic neurotransmission and behavior. Cell. 2005 Jul 29;122(2):261-73. doi: 10.1016/j.cell.2005.05.012. PMID: 16051150.
+
+
+The serine/threonine protein phosphatase 2A (PP2A) is a heterotrimeric phosphatase widely recognized as having tumor suppressor properties [Seshacharyulu, Shaw, Fowle, Perrotti].
+
+PP2A gene deletions are among the most frequent mutations in diffuse intrinsic pontine gliomas (DIPGs) [Chen B, Perrotti]. 43% of GB patients, 43% of the tumors showed lower levels of functioning PP2A [Colella]. In GB PP2A gene mutations are rare [Kaur]. As PP2A is not genetically lost, this indicates that in GB the tumor suppressor activity of PP2A can be potentially reactivated with benefit.
+
+Active PP2A is a triunit complex with a structural (PP2A-A),  a regulatory (PP2A-B), and a catalytic (PP2A-C) subunit. Phosphatase substrate specificity and intracellular location are determined by the regulatory subunit PP2A-B, coded by several different genes, together with dozens of splice variants of all three subunits result in over 70 PP2A isoforms. Some catalytically active PP2A is present as a PP2A-AB dimer. Phenothiazines bind to the catalytic unit sterically changing it to the active conformation [Seshacharyulu, Kashani, Dzulko]. But since most of the tested phenothiazines are also D2 inhibitors, it remains unclear if specifically fluphenazine activated PP2A as a phenothiazine or as a D2 receptor inhibitor [Manoharan].
+
+GB patients with high-level expression of the PP2A regulatory subunit PPP2R3A have an improved prognosis and a better response to TMZ [Kashani]. Also in vitro, overexpression of the PP2A regulatory subunit PPP2R2C inhibited glioma cell line proliferation [Fan YL].
+
+Phosphorylation of c-Myc serine 62 stabilizes c-Myc. PP2A mediated dephosphorylation enhances c-Myc’s ubiquitin-mediated degradation [Arnold]. Fluphenazine reduced c-Myc levels in cell lines of melanoma, breast cancer, and bronchoalveolar adenocarcinoma [Manoharan]. PP2A also dephosphorylates FOXO3a allowing FOXO3a nuclear import and transcription of its DNA consensus sequences [Hertz]. Active PP2A dephosphorylates AKT reducing lung adenocarcinoma cell growth [Zhang Y]. T lymphoma cells’ growth was inhibited by perphenazine activation of PP2A [Tsuji].
+
+D2 mRNA and protein levels are elevated in many cancers [30, Weissenrieder].
+
+Direct PP2A activation by fluphenazine has not been demonstrated. surrogate measures such as c-MYC degradation. fluphenazine also inhibited the effect of nerve growth factor on calcium uptake, but okadaic acid stimulated it. PP2A enhances the ubiquitin-mediated degradation of c-MYC [Arnold]. Fluphenazine also decreased activated (phosphorylated) c-MYC levels, a hallmark of PP2A activation [Manoharan].
+
+Dephosphorylation by the tumor-suppressive PP2A then finally targets c-MYC for proteasomal degradation [Petersen]. In addition, MYC is marked for degradation by other ubiquitin ligases
+
+PP2A dephosphorylates pS62 of c-Myc that  leads to its degradation by 26S proteasome.
+
+PP2A promotes Myc degradation, as mentioned earlier. Two endogenous inhibitors of PP2A, inhibitor-2 of PP2A (also known as SET oncoprotein) and cancerous inhibitor of PP2A (CIP2A), reduce PP2A activity, increasing active c-MYC [Janghorban].
+
+These endogenous PP2A inhibitors are often overexpressed across cancer types.
+MYC represents the hub of a network controlling the expression of approximately 30% of the human genes and regulates fundamental cellular processes like growth, proliferation, differentiation, metabolism, and apoptosis (6). Acting mainly as a transcription factor, the principal function of MYC is specific gene regulation, but MYC also executes additional tasks implicated in DNA replication and chromatin remodeling (6, 9). Therefore, MYC facilitates the assembly of protein complexes at the origin of replication (ORI) by interacting with proteins from the pre-replicative complex like CDT1, whose underlying gene itself is a transcriptional MYC target (10–12) (Figure 1). Overexpression of MYC enhances replication origin activity, which subsequently induces replicative stress leading to DNA damage and checkpoint activation pointing to a critical MYC function in DNA synthesis, which is aberrantly activated in cancer cells (10, 13).
+Due to the regulation of thousands of genes, MYC can be regarded as a globally acting transcription factor [Park].
+
+Interference with functions of the proteins SET or CIP2A, which inhibit c-MYC-degrading PP2A, leads to increased MYC degradation (109).
+
+Gil-Ad I, Shtaif B, Levkovitz Y, Nordenberg J, Taler M, Korov I, Weizman A. Phenothiazines induce apoptosis in a B16 mouse melanoma cell line and attenuate in vivo melanoma tumor growth. Oncol Rep. 2006;15(1):107-12.
+
+Kauko O, Westermarck J. Non-genomic mechanisms of protein phosphatase 2A (PP2A) regulation in cancer. Int J Biochem Cell Biol. 2018;96:157-164. doi:10.1016/j.biocel.2018.01.005.
+
+Sachlos E, Risueño RM, Laronde S, Shapovalova Z, Lee JH, Russell J, Malig M, McNicol JD, Fiebig-Comyn A, Graham M, Levadoux-Martin M, Lee JB, Giacomelli AO, Hassell JA, Fischer-Russell D, Trus MR, Foley R, Leber B, Xenocostas A, Brown ED, Collins TJ, Bhatia M. Identification of drugs including a dopamine receptor antagonist that selectively target cancer stem cells. Cell. 2012;149(6):1284-97. doi: 10.1016/j.cell.2012.03.049.
+
+c-MYC reviews, central to cancer…
+
+Weber LI, Hartl M. Strategies to target the cancer driver MYC in tumor cells. Front Oncol. 2023 Mar 8;13:1142111. doi: 10.3389/fonc.2023.1142111.
+
+Wang C, Zhang J, Yin J, Gan Y, Xu S, Gu Y, Huang W. Alternative approaches to target Myc for cancer treatment. Signal Transduct Target Ther. 2021;6(1):117. doi: 10.1038/s41392-021-00500-y.
+
+Cucinotta L, Filippone A, Casili G, Lanza M, Bova V, Capra AP, Giuffrida R, Colarossi C, Sciacca D, Paterniti I, Cuzzocrea S, Campolo M, Esposito E. The Pivotal Role of Protein Phosphatase 2A (PP2A) in Brain Tumors. Int J Mol Sci. 2022 Dec 11;23(24):15717. doi: 10.3390/ijms232415717.
+
+Allen-Petersen BL, Risom T, Feng Z, Wang Z, Jenny ZP, Thoma MC, Pelz KR, Morton JP, Sansom OJ, Lopez CD, Sheppard B, Christensen DJ, Ohlmeyer M, Narla G, Sears RC. Activation of PP2A and Inhibition of mTOR Synergistically Reduce MYC Signaling and Decrease Tumor Growth in Pancreatic Ductal Adenocarcinoma. Cancer Res. 2019;79(1):209-219. doi: 10.1158/0008-5472.CAN-18-0717.
+
+Arnold HK, Sears RC. Protein phosphatase 2A regulatory subunit B56alpha associates with c-myc and negatively regulates c-myc accumulation. Mol Cell Biol. 2006 Apr;26(7):2832-44. doi: 10.1128/MCB.26.7.2832-2844.2006.
+
+Arnold HK, Sears RC. A tumor suppressor role for PP2A-B56alpha through negative regulation of c-Myc and other key oncoproteins. Cancer Metastasis Rev. 2008;27(2):147-58. doi: 10.1007/s10555-008-9128-9.
+
+Choi JH, Yang YR, Lee SK, Kim SH, Kim YH, Cha JY, Oh SW, Ha JR, Ryu SH, Suh PG. Potential inhibition of PDK1/Akt signaling by phenothiazines suppresses cancer cell proliferation and survival. Ann N Y Acad Sci. 2008 Sep;1138:393-403. doi: 10.1196/annals.1414.041.
+
+Farrington CC, Yuan E, Mazhar S, Izadmehr S, Hurst L, Allen-Petersen BL, Janghorban M, Chung E, Wolczanski G, Galsky M, Sears R, Sangodkar J, Narla G. Protein phosphatase 2A activation as a therapeutic strategy for managing MYC-driven cancers. J Biol Chem. 2020;295(3):757-770. doi:10.1074/jbc.RA119.011443.
+
+Gutierrez A, Pan L, Groen RW, Baleydier F, Kentsis A, Marineau J, Grebliunaite R, Kozakewich E, Reed C, Pflumio F, Poglio S, Uzan B, Clemons P, VerPlank L, An F, Burbank J, Norton S, Tolliday N, Steen H, Weng AP, Yuan H, Bradner JE, Mitsiades C, Look AT, Aster JC. Phenothiazines induce PP2A-mediated apoptosis in T cell acute lymphoblastic leukemia. J Clin Invest. 2014;124(2):644-55. doi: 10.1172/JCI65093.
+
+Janghorban M, Farrell AS, Allen-Petersen BL, Pelz C, Daniel CJ, Oddo J, Langer EM, Christensen DJ, Sears RC. Targeting c-MYC by antagonizing PP2A inhibitors in breast cancer. Proc Natl Acad Sci U S A. 2014;111(25):9157-62. doi: 10.1073/pnas.1317630111.
+
+Manoharan GB, Okutachi S, Abankwa D. Potential of phenothiazines to synergistically block calmodulin and reactivate PP2A in cancer cells. PLoS One. 2022;17(5):e0268635. doi: 10.1371/journal.pone.0268635.
+
+Wang C, Zhang J, Yin J, Gan Y, Xu S, Gu Y, Huang W. Alternative approaches to target Myc for cancer treatment. Signal Transduct Target Ther. 2021;6(1):117. doi: 10.1038/s41392-021-00500-y
+
+Klutzny S, Lesche R, Keck M, Kaulfuss S, Schlicker A, Christian S, Sperl C, Neuhaus R, Mowat J, Steckel M, Riefke B, Prechtl S, Parczyk K, Steigemann P. Functional inhibition of acid sphingomyelinase by Fluphenazine triggers hypoxia-specific tumor cell death. Cell Death Dis. 2017;8(3):e2709. doi: 10.1038/cddis.2017.130.
+
+SET is overexpressed in malignant brain tumors, tumors of the head and neck region, and testicular cancer.59
+
+the infusion of haloperidol significantly inhibited PP-2A activity.
+Zhu LQ, Wang SH, Ling ZQ, Wang DL, Wang JZ. Effect of inhibiting melatonin biosynthesis on spatial memory retention and tau phosphorylation in rat. J Pineal Res. 2004;37(2):71-7. doi:10.1111/j.1600-079X.2004.00136.x.
+
+Höllerhage M, Goebel JN, de Andrade A, Hildebrandt T, Dolga A, Culmsee C, Oertel WH, Hengerer B, Höglinger GU. Trifluoperazine rescues human dopaminergic cells from wild-type α-synuclein-induced toxicity. Neurobiol Aging. 2014;35(7):1700-11. doi:10.1016/j.neurobiolaging.2014.01.027.
+
+2.E. fluphenazine, PP2A and FOXO3a
+
+FOXO3a is a 71 kDa transcription factor recognizing dozens of target DNA sequences [Liu Y 22, Liu Y 18, Habrowska, Grossi]. These target DNA sequences are related to apoptosis resistance, proliferation control, slowing cell cycle progression, cell survival, and DNA damage repair. Phosphorylation in cytosol of FOXO3a by AKT marks FOXO3a for ubiquitination and proteasomal degradation. Unphosphorylated FOXO3a is imported into nucleus where it functions as a transcription factor mainly acting to promote transcription of proteins favorable to  tumor suppression  [Liu Y 22, Liu Y 18, Habrowska, Grossi]. PP2A dephosphorylation of FOXO3a is a core determinant of its intracellular fate. The depletion of FOXO3a functions will contribute to uncontrolled proliferation and DNA damage accumulation [Audesse].
+
+FOXO3a nuclear action is frequently reduced in cancer but not universally so. Specifically in adult and pediatric GB, as well as diffuse midline and diffuse intrinsic pontine gliomas, FOXO3a is over phosphorylated with consequent reduced transcription of its target genes [Sunayama, Hashimoto, Wilk, Perrone, Dong Z]. GBs with decreased FOXO3a nuclear action due to its reduced dephosphorylation or excessive phosphorylation have a shorter survival and increased resistance to temozolomide cytotoxicity [XuK, Qian Z 17, Quan K, Ciechomska, Sun D].
+
+Figure 1 shows a simplified schematic of FOXO3a’s phosphorylation, dephosphorylation processes. Many protein-protein, post translation modifications, several miRNAs, and other cofactors are permissive, facilitating, or inhibiting to FOXO3a DNA effects.
+
+EGFR inhibition in GB cells with erlotinib led to FOXO3a dephosphorylation and to commensurate oncogene expression inhibition. Exposure to trifluoperazine led to FOXO3a dephosphorylation and was growth inhibitory to GM in vitro. Combination of trifluoperazine and erlotinib were synergistic in FOXO3a dephosphorylation [Ramis].
+
+diphenylbutylpiperidine (DPBP) class of antipsychotics includes fluspirilene, penfluridol, and pimozide .IC50 values for binding to the D2 dopamine receptor binding sites are 4 nM for pimozide, 2.2 nM for fluspirilene, and 16 nM for penfluridol [Gould].
+
+3. Chlorpheniramine
+
+Chlorpheniramine is a first generation antihistamine acting at H1 receptors to block their excitation and stop H1’s constitutive activity. Chlorpheniramine is thus an inverse agonist at H1. H1 is a G protein receptor (GPR)coupled with Gqα ro  activate phospholipase C that then cleavages phosphatidylinositol 4,5-bisphosphate (PIP2) into diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3), which then fan out along multiple signaling pathways. H1 has a relatively high level of spontaneous receptor activity in the absence of agonists.
+
+Chlorpheniramine is available without prescription in many jurisdictions for use in treating the symptoms of allergic reactions or minor upper respiratory viral infections. Loratadine and chlorpheniramine are both amphiphilic molecules. It is by this amphiphilic attribute that loratadine and chlorpheniramine have lysosomal membrane disrupting attributes.
+
+In rats, chlorpheniramine brain-to-plasma ratio was  34:1. chlorpheniramine had high passive membrane permeability (>310 nm/s), moderate protein binding (71-84%) and were not Pgp substrates that result in  high CNS penetration [Doan]. Chlorpheniramine brain to plasma ratio varies from 20:1 to 30:1 [Mahar Doan, Huang SM]. High occupancy of brain H1 receptors by chlorpheniramine is seen even after 2 mg in normal humans [Tagawa].
+
+Chlorpheniramine inhibits ornithine decarboxylase [Urdiales, Medina]. Increased ornithine decarboxylase is one of the many transcription/translation products triggered by Myc (synonymous with c-MYC). Myc is increased in many cancers, including prominently, in GB [Cencioni]. Polyamine products - putriscene, spermine, etc - of the ornithine decarboxylase pathway are associated with malignant cell growth drive and apoptosis resistance, including specifically in GB [Szeliga].
+
+3.1 histamine and GB.
+
+H1 is a G-protein-coupled-receptor (GPCR) with some baseline activity even when unliganded. Binding histamine increases activity, binding chlorpheniramine, and the other common antihistamine drugs, decreases or halts all G protein stimulation [Leurs]. In normal humans 98% of brain H1 receptors become blocked after 5 mg chlorpheniramine [Yanai].
+
+Human GB synthesize and secrete histamine [ChenJ]. GBs have higher histidine decarboxylase content than do other brain tissue cells or do lower grade gliomas [ChenJ]. H1 on blood vessel endothelial cells respond to this with Ca++ mobilization and NFkB activation facilitating angiogenesis. Orthotopic GBs growing in mice showed reduced growth rate and reduced angiogenesis in mice treated with the commonly used antihistamines diphenhydramine or promethazine but not with the non-BBB penetrating antihistamine cetirizine [ChenJ].
+
+In rat C6 glioma cells histamine induces sustained intracellular Ca++ release and IP3 formation by H1 receptor-mediated phospholipid hydrolysis, a response that is blocked by chlorpheniramine [Peakman, Tseng].
+
+Several other in vitro studies have shown H1 inhibition inhibits GB growth, although by what mechanism of action remains unclear [Kacar, iiKast, iiiKast, iKarpel-Massler, kast10].
+
+Already in 2010 a role for histamine and the intermediate conductance Ca++ activated K+ channel (KCa3.1) in GB growth was clear [Kast10]. Although the connection has not been worked out, histamine acting on H1 results in KCa3.1 opening [Ragozzino]. Since then further data confirms that KCa3.1 plays a growth promoting role in many different cancers [Mohr] including in GB [Catacuzzeno, Klumpp, Fioretti, D'Alessandro, Turner].
+
+Strong H1 inhibiting amphiphiles like loratadine disrupt lysosomal membranes, the consequent leakage predisposes acute myelocytic and chronic lymphocytic leukemia cells to cell death [Cornet-Masana, Chanas-Larue].
+
+A nationwide Danish epidemiology study revealed a statistically meaningful longer survival in people with lung adenocarcinoma (NSCLC) who were also taking loratadine [Ellegaard]. Survival prolongation was more pronounced in those receiving cytotoxic chemotherapy with the loratadine.
+
+Stem cell-specific histamine secretion participates in driving a GB microenvironment favorable to new vessel formation [Chen J]. Histamine acting on H1 increased FGF induced phosphorylation of IκBα in an angiogenesis model while having no effect on IkB or VEGF by itself H1 with consequent synergistic augmentation of FGF-induced angiogenesis. A commonly used H1 inverse agonist, diphenhydramine, completely eliminated that increased angiogenesis. [Lu Q]. H1 inhibition with the old antidepressant imipramine was synergistic with the pharmaceutical monoclonal anti-VEGF antibody bevacizumab in inhibiting GB growth in murine models when neither drug alone significantly inhibited growth [Chryplewicz]. Histamine stimulation at H1 promoted angiogenesis and induced expression of angiogenesis mediators matrix metalloproteinases and VEGF in a non-transformed endothelial cell model [Hatipoglu].
+
+3.2. Chlorpheniramine and lysosomes
+
+Loratadine is a safe, generic H1 antihistamine available without need for prescription in many jurisdictions around the world. Epidemiological study revealed better survival in melanoma patients who co-incidentally were heavy users of loratadine in the anti-allergy role. This loratadine effect may not be cancer type specific in that similar benefit was seen in an epidemiological study of loratadine users with breast or ovarian cancer [1Fritz, 2Fritz, 3Fritz]. Improved tumor-specific survival was seen in ovarian cancer patients using loratadine for ancillary conditions with a HR 0.63, in a large Swedish epidemiological study in 2021 [1Fritz].
+
+Given that one of the escape pathways from pyrimethamine’s cytotoxicity (vide infra) is increase in lysosomal number and thereby function, loratadine’s interference with lysosome function may be useful.
+
+Chlorpheniramine also is available without prescription in many jurisdictions worldwide.
+
+Chlorpheniramine is selectively concentrated in brain tissue, an advantage over loratadine. In rabbits brain tissue level was 30x that of plasma [Huang SM] while in rats’ brain tissue levels were 33x that of plasma [Mahar Doan KM].
+
+To what extent the data of loratadine in cancer quoted above applies also to chlorpheniramine is unknown.
+
+Chlorpheniramine has low nanomolar inhibitor activity at serotonin reuptake inhibitors (SSRI) on a par with the FDA/EMA approved SSRI antidepressant drugs fluoxetine, paroxetine and sertraline [Tatsumi, Gao, Carlsson].
+
+Chlorpheniramine could be considered an antidepressant, having a serotonin reuptake pump inhibition of KD = 15 nM, comparable to common antidepressants amitriptyline 4 nM, doxepin 9 nM, fluoxetine 0,8 nM, nortriptyline 18 nM, paroxetine 0.1 nM, sertraline 0.3 nM, amd venlafaxine 9 nM [Tatsumi].
+
+In sum therefore, adding one of these FDA/EMA-approved antihistamines, probably chlorpheniramine best, is warranted to enhance pyrimethamine’s GB cytotoxicity.
+
+4. Azithromycin
+
+Azithromycin is an antibiotic widely used to treat bacterial infections. The commonly used macrolides include erythromycin, clarithromycin, roxithromycin, and azithromycin.
+
+The antimicrobial activity of macrolides is due to their ability to reversibly bind to bacterial   ribosomal 50S submit, leading to inhibition of protein synthesis. In addition to broad microbicidal activities, azithromycin exhibits anti-inflammatory and immune system effects.
+
+Azithromycin improves survival of diffuse panbronchiolitis independently of bacterial colonization (Kudoh). Azithromycin improves functioning several inflammatory conditions including asthma (Wu, Niessen, Gibson 2017), chronic obstructive pulmonary disease [LeeN], cystic fibrosis (Florescu 2009). reactive arthritis [Kvien], emphysema [Segal] and others.
+
+Azithromycin enhances the cytotoxicity of DNA-damaging drugs with an MOA thought to be via enhanced lysosomal membrane permeability [Takeda, Toriyama]. Also RTK inhibitors' cytotoxicity is enhanced by azithromycin [Tanaka].
+
+Azithromycin is selectively concentrated in brain tissue at levels 20 to 50 times higher than levels seen in blood or plasma []. It is instructive for GB research that CSF azithromycin levels are low or undetectable when brain tissue levels are high [Jaruratanasirikul].
+
+mTOR (mTOR 1) is a serine threonine kinase of central to cell function, normal or malignant, with many signaling systems activate it or inhibiting it. Multiple receptor tyrosine kinases' signaling chains converge onto mTOR. Activated mTOR then phosphorylates many target proteins changing their function [Laplante]. In addition, azithromycin suppressed mTOR, which is frequently activated in cancer cells [16,17,18].
+
+Current evidence links azithromycin to several modes of GB growth inhibition, as reviewed below:
+
+suppression of proinflammatory cytokines
+
+Azithromycin suppresses proinflammatory cytokine production from various cell types, especially immune cells including monocytes/macrophages, neutrophils, dendritic cells, and CD4+ T cells. azithromycin impairs the activation of the NLRP3 inflammasome and prevents inflammasome-dependent IL1β and IL-18 release [Gualdoni]. The anti-inflammatory property of azithromycin is underscored by its ability to suppress several signaling pathways associated with inflammatory response, including the MAP kinase Erk, JNK and p38, and the downstream transcriptional factors NFĸB, AP1, and STAT-1 [Venditto ,  Parnham].
+
+In addition to inflammatory cytokines such as IL1β and IL-6, azithromycin also suppresses chemotactic factors from immune cells, thus dampening immune cell trafficking and alleviating inflammatory response Venditto, Parnham]. Recently it was demonstrated that azithromycin also suppresses proinflammatory cytokines from LPS-treated microglia, likely by blocking NFĸB activation [Ramarao], suggesting that azithromycin could be used to alleviate neuroinflammation.
+
+Recent studies revealed that azithromycin can interfere with multiple intracellular pathways that are active in promoting malignant growth. Fiorillo (2019) showed that a combination of doxycycline, azithromycin, and vitamin C potently inhibited MCF7 ER (+) breast cancer stem cells propagation by 90%. In another study, both azithromycin and doxycycline inhibited the proliferation of human GB cell line (U87) and induced apoptosis of these cells (Hassan 2022). azithromycin shows synergistic effect with other anti-cancer drugs in inhibiting cell growth and inducing cytotoxicity of various cancer cell lines, such as the chemotherapeutic agent vincristine for Hela and SGC-7901 cancer lines (Zhou 2012) and Imatinib (a tyrosine kinase inhibitor) for Chronic Myeloid Leukemia cell lines K562s and K562R (Ozkan 2021). azithromycin significantly inhibits tumor growth in vivo and suppresses VEGF-induced proliferation and cytotoxicity of tumor associated-endothelial cells (HLT-ECs), and enhances tumor necrosis factor-related apoptosis-inducing ligand (TRAIL)-mediated apoptosis in HCT-116 and SW480 cancer cell lines (Li et al. 2017). The cytotoxicity of azithromycin to cancer cells in vitro appears to be associated with Kallikrein Related Peptidase 6 (KLK6) mutation status, which is a member of the peptidase S1 serine protease family that plays a significant role in cancer development (Sherman 2021). This may help explain the inconsistency regarding whether azithromycin itself is cytotoxic, since some studies found that azithromycin alone does not induce cytotoxicity in cancer cells (Sugita 2015).
+
+4.1. Pharmacokinetics
+
+Pharmacodynamics of azithromycin is remarkable in that it achieves significantly higher concentrations in tissues, including the brain, than it does in serum. A single oral dose of 500 mg azithromycin resulted in a peak serum concentration of 0.4 mg/L, while its concentration in peripheral tissue such as the prostate and tonsil exceeded 3 mg/kg with a half-life of 2.3 days [Foulds. The concentrations of azithromycin in brain tissue was 10 times higher in brain than in serum of normal mice and 20 times higher in Toxoplasma gondii-infected mice’s brain after 10 days of azithromycin treatment [Araujo]. A study conducted in 20 patients with brain tumors showed that a single oral dose of 500 mg azithromycin achieved a high brain tissue-to-serum ratio 255:1 after azithromycin administration [Jaruratanasirikul]. The high affinity of azithromycin for tissue and especially immune cells is due to the presence of two basic tertiary amine groups that gives it amphiphilic properties [Gladue].
+
+Moreover, azithromycin exhibits a remarkable ability to accumulate within monocytes and neutrophils where intracellular concentrations are >100-fold higher than the serum [Ballow, Amsden]. Related to this is azithromycin’s clinical use in treating mucosa-associated lymphatic tissue (MALT)-lymphoma, where azithromycin has a current role in treating this malignancy [Scheibenpflug, Lagler, Kiesewetter. In MALT, azithromycin concentration was more than 100-fold higher in blood monocytes and 600-fold higher in neutrophils compared to serum following a single dose 1.5 g oral azithromycin [Scheibenpflug].
+
+
+The half-life of azithromycin in humans is about 35-40 h after a dose of 500 mg [Heidary].
+
+4.2. azithromycin and autophagy
+
+Vrančić M, Banjanac M, Nujić K, Bosnar M, Murati T, Munić V, Stupin Polančec D, Belamarić D, Parnham MJ, Eraković Haber V. Azithromycin distinctively modulates classical activation of human monocytes in vitro. Br J Pharmacol. 2012 Mar;165(5):1348-60. doi: 10.1111/j.1476-5381.2011.01576.x. PMID: 21726210; PMCID: PMC3372721.
+
+The anti-proliferative and cytotoxic effects of azithromycin on cancer cells are mediated primarily by its ability to suppress autophagy, which is a cell recycling system that capture and degrade intracellular proteins and organelles in lysosomes upon starvation or stress. Autophagy functions as a cellular mechanism in maintaining homeostasis in normal cells. However, autophagy dysfunctions play a crucial role in promoting carcinogenesis, tumor growth, cancer stem cell maintenance, and enables cancer cell survival against chemotherapy, while small molecule inhibitors of autophagy suppress tumor growth (Levy 2017). azithromycin enhances cytotoxic activities of DNA-damaging drugs doxorubicin (DOX), etoposide, and carboplatin in non-small-cell lung cancer (NSCLC) cells by blocking autophagy, leading to prominent lysosomal membrane permeabilization for apoptosis induction (Toriyama 2021).
+
+In several cancer cell lines, azithromycin exhibits potent inhibition of autophagy induction and potentiates cell growth inhibition and cytotoxicity of tyrosine kinase inhibitors (Tanaka 2020). azithromycin enhances tumor necrosis factor-related apoptosis-inducing ligand (TRAIL)-induced apoptosis of HCT-116 and SW480 cancer cells by suppressing autophagy-associated protein LC-3B (Qiao 2018). Among several macrolides tested, azithromycin was the most potent inhibitors of autophagy and the most prominent enhancers of epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKIs)-mediated cytotoxicity in pancreatic cancer cell lines (Mukai 2016).
+Suppression of autophagy by azithromycin and the antimalarial drug chloroquine is associated with increase in eukaryotic initiation factor 2α (elf2α) phosphorylation and integrated stress response (ISR) in human glioma H4-GFP-LC3 cells, and cells with mutant elf2α failed to accumulate autophagic puncta upon exposure to these drug, suggesting that activation of the ISR is one of the mechanisms underlying azithromycin and chloroquine-mediated autophagy inhibition (Tian 2021). Alternatively, azithromycin inhibits autophagy by specifically interacting with the cytoskeletal proteins keratin-18 and α/β-tubulin, leading to disturbed trafficking of lysosomes and inhibition of lysosomal functional maturation (Takano 2023).
+
+azithromycin inhibits the proliferation and cytokine production of CD4+ T cells in vitro (Ratzinger 2014) and in vivo (Huang 2021), which is associated with reduced p70S6K, a downstream target of mTOR.
+
+4.4. azithromycin and metalloproteinase-9 (MMP-9)
+
+MMP-9 functions in cancer cell invasion and metastasis by participating in the suite of enzymes that degrade extracellular matrix [Huang H]. Several lines of evidence suggest that azithromycin suppresses MMP-9 function by reducing MMM-9 mRNA and MMP-9 protein and particularly so in an inflammatory environment  [Verleden, Zhang, Slater,  Vandooren].
+
+4.5. Conclusion on Azithromycin
+
+azithromycin targets multiple signaling pathways of cancer cell biology while simultaneously suppresses neuroinflammation, thus the rationale for repurposing azithromycin as an anticancer drug is quite compelling. So far, clinical trials are limited. In a phase II trial, Lagler et al (2019) reported that long-term once weekly oral azithromycin treatment showed some anti-lymphoma activity in patients with mucosa-associated lymphoid tissue (MALT) lymphoma.
+
+5. Pyrimethamine
+
+Pyrimethamine is a 248 Da lipophilic drug used to treat malaria for over 50 years and continues in this role today in 2023. It inhibits human dihydrofolate reductase (DHFR) [Hannewald, Assaraf]. Pyrimethamine’s Ki = 38 nM at DHFR is comparable to that of the more commonly used DHFR inhibitor methotrexate, Ki = 2.3 nM, folinic acid Ki = 320 nM, and folic acid Ki = 830 nM [Hannewald, Assaraf]. As with folate, to be active, methotrexate must be retained within the cell, to be retained in cells both methotrexate and folate must become polyglutamated.  Methotrexate, as a lipophobe, doesn’t cross the BBB while pyrimethamine as a lipophile readily crosses the BBB. Consequently pyrimethamine brain levels are considerably higher than plasma levels [Leport, Schoondermark]. After a single 100 mg dose of pyrimethamine prior to neurosurgery, brain pyrimethamine level was 1.6 ± 0.8 μg/g tissue with a brain:serum ratio of 5.4 at 24 hours post dose. Notably T1/2 was 40 hours in brain tissue but 28 hours in serum [Leport].
+
+Pyrimethamine is projected to benefit by virtue of its four established effects in mammals: 1) Inhibition of DHFR, 2) Inhibition of thymidine phosphorylase, 3) Inhibition of STAT3, and 4) inhibition of multidrug and toxin extrusion transporters 1 and 2, vide infra.  
+Generic pyrimethamine is cheap, and can be compounded by  https://www.avella.com/503a.
+
+5A. Pyrimethamine inhibition of DHFR.
+
+DHFR catalyzes NADPH-dependent reduction of 7,8-dihydrofolate to 5,6,7,8-tetrahydrofolate. Fig. yy shows a much-simplified schematic of folate metabolism relevant to pyrimethamine.
+
+Methotrexate is a high-affinity inhibitor of DHFR, commonly used in treating several cancers and, at lower doses, rheumatoid arthritis, psoriasis, lupus, and similar conditions. Methotrexate blocks DNA synthesis by disrupting metabolism of methionine, synthesis of S-adenosyl methionine, purines, and thymidylate. Thymidine synthetic pathway depends on the methylation of deoxyuridine, the methyl donor being 5,lO-methylenetetrahydrofolate [Assaraf, Reynolds].
+
+Pyrimethamine treatment at higher doses can give a reversible bone marrow suppression, making periodic blood monitoring advisable [Reynolds, Ben-Harari].Of great interest in treating GB or brain metastases from breast or lung cancer is the unusual property of pyrimethamine to be concentrated in the brain at levels several times greater than in serum or plasma [Leport, Schoondermark].
+
+In an acute myelogenous leukemia model, pyrimethamine was more effective in inhibiting growth than was methotrexate. In vitro proliferation was reduced 2.5 fold at 0.1 µM and 12.7 fold at 0.5 µM [Sharma]. Several patients with polycythaemia rubra vera and with essential thrombocythemia were successfully controlled with pyrimethamine, reported in 1987 [Bowcock].
+
+It is unclear why early reports in the 1970s of successful pyrimethamine treatment (2 mg/kg/day for 7 days) of meningeal recurrence of acute lymphoblastic leukemia in children have not been followed up [Armata].
+
+Steady state, at about 2-3 weeks, pyrimethamine plasma level is ~1 microM with dose 12.5 mg/day to ~6 microM with 50 mg/day [Brown]. Pyrimethamine exhibited significant in vitro cytotoxicity to chronic lymphocytic leukemia cells within this range while showing no cytotoxicity to mixed leukocytes from healthy normals [Brown].
+
+STAT3 is activated in tumor myeloid derived suppressor cells and inhibiting STAT3 reduces their immune suppressing activity [ChengP, Kujawski, Kortylewski, Herrmann].
+
+5.B. Pyrimethamine and STAT3.
+
+STAT3 is a ~800 amino acid, 92 kDa transcription factor usually resident, inactive in cytoplasm. STAT3 is a signalling hub, becoming activated via many different inputs. This includes the activation of cytoplasmic STAT3 by tyrosine phosphorylation, initiated by many different cytokines. Once activated (phosphorylated) STAT3 translocates to nucleus. It then binds to its target DNA sequences, subsequently triggering the  transcription of the relevant DNA target sequences.
+
+STAT3 in inhibition generally and use of pyrimethamine specifically, reduce myeloid derived suppressor cells’ (MDSC) numbers and function.
+
+Within the GBM TME are various types of cells including tumour cells, stromal cells and infiltrating immune cells, which are continuously interacting through the secretion of various secreted factors including growth factors, metabolites, cytokines and chemokines and vesicles such as exosomes (Richard, 2020). The tumor cells in the TME can transform immune cells to suppress immune cells such as T-cells, natural killer (NK) cells and dendritic cells (DC) to evade immune surveillance.
+
+Myeloid-derived suppressor cells (MDSC) are abundantly recruited and expanded throughout the GBM TME and are a heterogenous cluster of immature myeloid progenitors with a key function in mediating immune suppression, as well as maintaining tumor cell growth, invasion and tumor vascularization (Won 2019). MDSC can be usually found in the monocytic fraction of circulating cells in GBM patients and are generally associated with poor prognosis (Jung, 2022). MDSC differentiation is facilitated by tyrosine kinase signaling and STAT3 activation has been shown to stimulate proliferative genes in immature myeloid cells (IMCs), driving their subsequent development to MDSCs (Ugel, 2009).
+
+Oweida et al (202) studied the changes in immune cell populations and circulating chemokines in patient samples, in addition to also using animal models of pancreatic cancer to characterize the immune response to radiotherapy. They identified STAT3 as a key mediator of immunosuppression and that radiation treatment induced STAT3 phosphorylation, which was coupled with an increase in MDSC infiltration and proliferation in the tumor. Importantly, the MDSC radiotherapy induced infiltration was circumvented when STAT3 was targeted with an anti-sense oligonucleotide approach, which reduced the proportion of effector T cells, improving the response to radiotherapy.
+                                                                                                                                                                                                                                                                                                                   In a separate study, Safarzadeh et al (2021) isolated HLA-DR-CD33+ MDSCs and CD3+ T cells from the peripheral blood of breast cancer patients’ and healthy donors through magnetic-activated cell sorting (MACS) and immunophenotyped cells by flow cytometry and identified increased STAT3 signaling and IL-10 expression in the breast cancer-derived MDSCs as mediators of immunosuppression mechanisms. This was further validated by the reduction of the immunosuppressive activity of the MDSCs on T cells after inhibition of STAT3. MDSCs can be activated by IL-6 derived from metastasizing breast cancer cells and as MDSCs can express both IL-6 and soluble IL-6Rα, this stimulates STAT3 phosphorylation through IL-6 trans-signaling, contributing to the invasiveness and metastasis of breast cancer (Oh, 2011; Oh 2013).
+
+The ability for agents directed at STAT3 to have a potential role as MDSC-targeting drugs has been previously proposed. Kuroda et al (2017) showed that MDSCs treated with a STAT3 inhibitor, S3I-201, resulted in the induction of apoptosis, which was coupled with the inhibition of STAT3 signaling and arginase activity.  These observations are consistent with previous findings where STAT3 signaling has been shown to play central roles in MDSC survival and the production of arginase in MDSCs (Draghiciu et al, 2015). It has been demonstrated that GBM tissues exhibit constitutive STAT3 phosphorylation (Tyr-705 and Ser-727) compared to normal brain with a positive correlation to histopathological grade and reduced patients’ survival (Tu et al,2011; Lin et al, 2014; Susman et al, 2019). Therefore, compounds which can block STAT3 activation, such as pyrimethamine, may prevent the expansion of the immunosuppressive MDSC population within GBM.
+
+Growth drive behind many cancers, including GB, involve pathological activation of many transcription factors, prominently among which is STAT3. STAT3 is a core signaling hub in that many different cell surface receptors and ion channels can be active to trigger STAT3 phosphorylation that drive protumorigenic processes such as survival, proliferation, invasion and inflammation.
+
+To identify inhibitors of STAT3, Heppler et al conducted an unselected high-throughput screen of 1120 small molecules. Pyrimethamine was identified as a specific inhibitor of activated (phosphorylated) STAT3 target gene transcription without inhibiting STAT3 phosphorylation, nuclear translocation, or DNA binding [Heppler].
+
+In comparing pyrimethamine and methotrexate, both functioned as STAT3 target gene transcription inhibitors and both did so via DHFR inhibition. Exogenous folinic acid (leucovorin) and exogenous thymidine reversed the STAT3 function inhibition by pyrimethamine implicating DHFR-mediated thymidine biosynthesis as a requirement for STAT3 transcription initiating activity [Heppler].
+
+Boding well for our use of pyrimethamine in GB treatment, pacritinib is a proprietary (and extremely expensive) STAT3/JAK inhibitor marketed for the treatment of myelofibrosis that inhibited GB growth that was additive to TMZ’s growth inhibition in preclinical models [Chuang HY].
+
+A clinical trial of pyrimethamine treatment of chronic lymphocytic leukemia with pyrimethamine showed STAT3 and STAT3 dependent target gene transcription inhibition after starting pyrimethamine [Brown].
+
+Khan et al demonstrated that inhibition of STAT3 action by pyrimethamine Inhibited proliferation and migration of breast cancer cells after exposure to pyrimethamine was related to its STAT3 inhibition [Khan]. A similar work showed proliferation inhibition of lung adenocarcinoma by pyrimethamine [Liu].
+
+Outer cell membrane Folate Receptor alpha is required for normal cell growth but is often overexpressed in cancers [Nawaz, Young], including in GB [Shi]. Hansen et al provided evidence that the Folate Receptor alpha (synonymous with Folate Receptor 1) also functions to indirectly activate cytosolic STAT3 [Hansen’15, Hansen’17]:
+
+FRalpha + [folinic or folate]  gp130  STAT3-P
+
+5.C. Pyrimethamine, thymidine phosphorylase and thymidine recycling
+
+Pyrimethamine inhibits thymidine phosphorylase as well as DHFR [Liu H, Ramchandani].
+
+Similar to the more widely used methotrexate that blocks human DHFR, pyrimethamine can inhibit the proliferation of lung cancer cells. However, pyrimethamine also inhibits thymidine phosphorylase, methotrexate does not.  the epithelial–mesenchymal transition (EMT), metastasis and invasion of lung cancer cells, thymidine phosphorylase was found to be the another target of pyrimethamine.
+
+Thymidine phosphorylase is included in the pyrimidine nucleoside salvage pathway, Fig. yy.
+
+Thymidine phosphorylase catalyzes phosphorylation of thymidine or deoxyuridine to respectively thymine or uracil and 2-deoxyribose 1-phosphate.
+
+        thymidine + phosphate ⇌ thymine +
+        2-deoxy-alpha-D-ribose 1-phosphate
+
+Thymine generated by this reaction can then be utilized in the synthesis of DNA through the salvage pathway. In addition, the deoxyribose-1-phosphate generated by thymidine phosphorylase can be used as a substrate for other enzymes involved in nucleotide metabolism.
+deoxythymidine = thymidine
+thymidine monophosphate = dTMP
+thymidine diphosphate = dTDP
+thymidine triphospate = dTTP
+
+Thymidine phosphorylase activity is elevated in many cancers where it is associated with aggressive disease and poor prognosis [Liekens]. Thymidine phosphorylase is also elevated in GB and contributes to GB angiogenesis, resistance to apoptosis, and aggressive growth [Takano, Tanioka, Hirano, Blanquicett, de Moura, de Moura, Warfield].
+
+5.D. Pyrimethamine and immune functioning.
+
+
+5.D. Thymidine phosphorylase and angiogenesis
+
+Thymidine phosphorylase is an enzyme that plays an important role in the metabolism of nucleotides in cells. It is involved in the interconversion of thymidine to thymine, which is a critical step in the salvage pathway for nucleotide synthesis. The thymine generated by this reaction can then be utilized in the synthesis of DNA through the salvage pathway. In addition, the deoxyribose-1-phosphate generated by thymidine phosphorylase can be used as a substrate for other enzymes involved in nucleotide metabolism.
+
+Thymidine phosphorylase is often upregulated in cancer and particularly so in tumors that are resistant to chemotherapy. This is thought to be due to the ability of thymidine phosphorylase to generate thymidine, which can fuel DNA synthesis in rapidly dividing cancer cells. In the aspect of cell economy, cells can supply dTTP or others with recycled resources, i.e. thymine and deoxyribose phosphate, instead of consuming high energy and expensive building blocks. Thus, targeting thymidine phosphorylase with specific inhibitors has been proposed as a potential strategy for improving the efficacy of chemotherapy in these tumors.
+
+Thymidine phosphorylase catalyzes conversion of thymidine to thymine, a key step in the salvage pathway for nucleotide metabolism in cells. This pathway allows cells to recycle nucleotides instead of synthesizing them de novo, an energy intensive process.
+
+Thymidine is a nucleoside that can be salvaged by cells and converted to its corresponding nucleotide, thymidine monophosphate (TMP), through the action of thymidine kinase. Once converted to TMP, it can be further phosphorylated to its di- and triphosphate forms (TDP and TTP, respectively) by other enzymes and then used for DNA synthesis.
+While the phosphorylation of TMP by thymidine kinase typically leads to its conversion into TTP, the breakdown of thymidine can also help to synthesize other nucleosides by supplying building blocks like deoxyribose. Thus, thymidine phosphorylase can break down thymidine or convert thymine to thymidine, depending on the cellular demands, to provide elements necessary for DNA synthesis and repair. Cells can either supply ribose through the breakdown of thymidine or metabolize it for energy, other than the amount required for TTP synthesis, in order to minimize energy consumption from the thymidine taken up from the outside of cells.
+While thymidine phosphorylase inhibitors did not demonstrate cytotoxicity in GB cell lines, these did enhance the cytotoxicity of temozolomide [Warfield]. An empirical in vitro study of patient derived GB cells showed pyrimethamine increased cytotoxicity of temozolomide and irradiation [Baritchii].
+
+STAT3, pyrimethamine and MDSC
+
+Wang M, Zhang Y, Liu M, Jia Y, He J, Xu X, Shi H, Zhang Y, Zhang J, Liu Y. Inhibition of STAT3 signaling as critical molecular event in HUC-MSCs suppressed Glioblastoma Cells. J Cancer. 2023;14(4):611-627. doi: 10.7150/jca.77905.
+
+Within the GBM TME are various types of cells including tumour cells, stromal cells and infiltrating immune cells, which are continuously interacting through the secretion of various secreted factors including growth factors, metabolites, cytokines and chemokines and vesicles such as exosomes (Richard, 2020). The tumor cells in the TME can transform immune cells to suppress immune cells such as T-cells, natural killer (NK) cells and dendritic cells (DC) to evade immune surveillance.
+
+Myeloid-derived suppressor cells (MDSC) are abundantly recruited and expanded throughout the GBM TME and are a heterogenous cluster of immature myeloid progenitors with a key function in mediating immune suppression, as well as maintaining tumor cell growth, invasion and tumor vascularization (Won 2019). MDSC can be usually found in the monocytic fraction of circulating cells in GBM patients and are generally associated with poor prognosis (Jung, 2022). MDSC differentiation is facilitated by tyrosine kinase signaling and STAT3 activation has been shown to stimulate proliferative genes in immature myeloid cells (IMCs), driving their subsequent development to MDSCs (Ugel, 2009).
+
+Oweida et al (202) studied the changes in immune cell populations and circulating chemokines in patient samples, in addition to also using animal models of pancreatic cancer to characterize the immune response to radiotherapy. They identified STAT3 as a key mediator of immunosuppression and that radiation treatment induced STAT3 phosphorylation, which was coupled with an increase in MDSC infiltration and proliferation in the tumor. Importantly, the MDSC radiotherapy induced infiltration was circumvented when STAT3 was targeted with an anti-sense oligonucleotide approach, which reduced the proportion of effector T cells, improving the response to radiotherapy.
+                                                                                                                                                                                                                                                                                                                                                     In a separate study, Safarzadeh et al (2021) isolated HLA-DR-CD33+ MDSCs and CD3+ T cells from the peripheral blood of breast cancer patients’ and healthy donors through magnetic-activated cell sorting (MACS) and immunophenotyped cells by flow cytometry and identified increased STAT3 signaling and IL-10 expression in the breast cancer-derived MDSCs as mediators of immunosuppression mechanisms. This was further validated by the reduction of the immunosuppressive activity of the MDSCs on T cells after inhibition of STAT3. MDSCs can be activated by IL-6 derived from metastasizing breast cancer cells and as MDSCs can express both IL-6 and soluble IL-6Rα, this stimulates STAT3 phosphorylation through IL-6 trans-signaling, contributing to the invasiveness and metastasis of breast cancer (Oh, 2011; Oh 2013).
+The ability for agents directed at STAT3 to have a potential role as MDSC-targeting drugs has been previously proposed. Kuroda et al (2017) showed that MDSCs treated with a STAT3 inhibitor, S3I-201, resulted in the induction of apoptosis, which was coupled with the inhibition of STAT3 signaling and arginase activity.  These observations are consistent with previous findings where STAT3 signaling has been shown to play central roles in MDSC survival and the production of arginase in MDSCs (Draghiciu et al, 2015). It has been demonstrated that GBM tissues exhibit constitutive STAT3 phosphorylation (Tyr-705 and Ser-727) compared to normal brain with a positive correlation to histopathological grade and reduced patients’ survival (Tu et al,2011; Lin et al, 2014; Susman et al, 2019). Therefore, compounds which can block STAT3 activation, such as pyrimethamine, may prevent the expansion of the immunosuppressive MDSC population within GBM.
+
+
+6. Sertraline
+
+Sertraline is one of the early serotonin reuptake inhibitor (SSRI) antidepressants introduced to clinical practice in the 1990s and continues in wide use worldwide today, 2023. For earlier data on the potential GB growth inhibiting effects of sertraline, see our previous works [3, 3a, 26, 27z, 27]. Manly data accrued since 2020 is reviewed here.
+
+Of great importance to GB, sertraline is selectively concentrated in brain tissue at 20 to 30 times greater than plasma levels [Nedahl, Tremaine, DeVane, Wille].
+
+6.A. Repressor element-1 silencing transcription factor.
+
+Repressor element-1 silencing transcription factor (REST), synonymous with neuron restrictive silencer factor (NRSF), is a transcription factor with a dual function, 1)it inhibits transcription of neuron-specific genes in non-neuronal cells, and 2) it activates transcription of DNA sequences driving neuronal differentiation [Su]. REST represes neuronal programs in non neuronal lineages, recognizing regulatory regions of neuron specific genes. Overexpression, underexpression, mutations, truncated versions, miRNAs, and presence or absence of co-repressors determine the net effect of REST [Su].
+
+REST is a sine qua non steering force in the process of neuronal stem cell differentiation into neuronal progenitor cells with limited self-renewal capacity that then further differentiation into neuroblasts and glioblasts that end differentiate into neurons and glia. REST is a master negative regulator of adult neuronal stem cell differentiation [Gao].
+
+Immunohistochemical REST is overexpressed in GB biopsy tissue. Also REST mRNA is increased, REST gene amplified and all 3 especially so in the GB perivascular space [Conti, Kurita, Kamal]. Note that it is the perivascular area where the GB stem population tend to reside. GB cases with higher REST expression have shorter survival than cases with lower expression.[Wagoner].
+
+Transcription factors commonly work as multimeric complexes that are required to function. In the case of REST, mSin3, CoREST, and histone H3K9 methylase G9a are 3 of these required co-factors [Kurita]. Importantly for F-CAPS, both sertraline and chlorpromazine bind to the REST co-factor mSin3 preventing or reducing the entire complex’s function [Kurita].
+
+6.B. sertraline in GB, empirical data
+
+Two reviews in 2022 covered dozens of papers showing sertraline mediated decreases in malignant cell viability, proliferation, migration, invasion, and cell cycle progression across a wide variety of different cancer cells [Duarte, Baú]. Although these reviews showed growth suppression across a wide variety of different cancers, no common mode of action for this effect could be deduced from the collected data. Also all studies were in vitro or in xenotransplant models. As a single drug, sertraline reduced in vitro growth of some patient derived GB cultures but did not do so in others [Schmidt].
+
+6.C. sertraline and translationally controlled tumor protein
+
+Sertraline was included in the original CUSP9v3 regimen [3, 24, 25]. This was based in part on empirical data, in part by sertraline’s inhibition of translationally controlled tumor protein (TCTP) [Amson, Telerman]. TCTP is crucial for homologous DNA repair in cancer generally [LiY]. It is frequently mutated or increased and a component of temozolomide resistance in GB. Inhibiting TCTP with interventions other than sertraline reduced GB growth in vitro and in murine models [Morimoto, ZhangQ, Jin].
+
+In prostate cancer cells sertraline disrupted redox toward oxidation, resulting in enhanced apoptosis [Chinnapaka]. In breast cancer cells reliant on intracellular serine/glycine synthesis, sertraline exerted growth inhibition by inhibiting serine hydroxymethyltransferase that reduced synthetic chain, 3-phosphoglycerate to serine to glycine [Geeraerts]. In lung adenocarcinoma cells Zinnah et al found sertraline reduced growth by upregulating death receptor 5, but Jiang et al found growth reduction was due to autophagia increases [Jiang, Zinnah]. Mu et al found sertraline’s apoptosis promotion was secondary to autophagy induction [Mu]. In acute myeloid leukemia cells sertraline inhibited growth by autophagy and apoptosis induction [Xia]. Others found in hepatocellular carcinoma sertraline inhibited growth by AKT, mTOR pathway inhibition with autophagic cell death consequent to that [Zhang, Hwang]. Also in melanoma cells growth inhibition after sertraline exposure was found consequent to reduced AKT phosphorylation [Reddy].
+
+He W, Edney MK, Paine SML, Griffiths RL, Scurr DJ, Rahman R, Kim DH. Untargeted Metabolomic Characterization of Glioblastoma Intra-Tumor Heterogeneity Using OrbiSIMS. Anal Chem. 2023 Mar 30. doi: 10.1021/acs.analchem.2c05807.
+
+It should be noted here that sertraline in wide use to treat depression yet shows no overt sign or symptom of enhanced cell death of any sort in day-to-day clinical use.
+
+4.10. Sertraline
+
+Sertraline was the second selective serotonin reuptake inhibitor (SSRI) class  antidepressant, introduced into clinical practice in the 1990s. It carries low risk of side effects [203]. See recent reviews of collected data on sertraline’s effects on cancer cells [204-207]. An abiding problem in understanding sertraline’s action in impeding GB growth is the many different, seemingly unrelated, mechanisms by which it does this.
+
+Depressed mood and impairment of executive function are common in the course of GB and these mood disturbances lower GB survival [208]. Sertraline often mitigates the depression somewhat but whether this reverses the survival shortening effect of depression (we would not expect it to) has not been studied [209].
+
+Sertraline has cytotoxic effects on cells from lung adenocarcinoma [210, 211], prostate cancer [212], breast cancer [213], gastric cancer [214], colon adenocarcinoma [215], and others. Two independent teams found that sorafenib a VEGF, PDGF kinase inhibitor and sertraline were independently cytotoxic to Hepatocellular carcinoma cells in vitro, and were together synergistic [216, 217].
+
+4.10.A. sertraline and Translationally Controlled Tumor Protein
+
+A core action of sertraline relevant to malignant growth is inhibition of Translationally Controlled Tumor Protein (TCTP) function [204, 205, 212, 218-220]. TCTP is a 20-kDa multifunctional protein, conserved across eukaryotes [221, 222]. TCTP is generally found to be elevated across cancers [223-227]. TCTP participates in autophagy regulation, promoting DNA repair, IL-8 translation, histamine release, and other tumor supporting functions [223-231]. TCTP inhibition is thought to be specific to sertraline, not an SSRI class effect.
+
+
+
+7. Discussion
+
+It should not be surprizing that the list of drugs inhibiting GB growth from general medicine is so long. GB, like other cancers, uses the same growth, survival, and death signaling systems as do normal cells. It is just in malignancy several of these systems are pathologically engaged or pathologically nonfunctional. Normal physiological systems become pathologically engaged to promote growth and suppress apoptosis signalling.
+
+In F-CAPS there is a reversal of the usual quest for “clean” medicines, medicines that have one specific effect on our chosen target. F-CAPS uses five “dirty” medicines by design, medicines that have multiple effects on cellular systems. The five medicines each have several effects that we predict will aid in slowing GB growth, as outlined in this paper.
+
+Bevacizumab use in GB gives some symptom relief but does not usually lengthen survival [Kaka]. Data reviewed in the chlorpheniramine section would suggest usefulness of adding chlorpheniramine to current palliative use of bevacizumab in the course of GB.
+
+8. Conclusions
+
+The data assembled here constitutes a strong rationale for using F-CAPS during GB treatment. The uniform fatality of GB as things now stand, combined with the strong rationale and projected safety of adding F-CAPS, warrant a pilot clinical trial as an adjuvant arm to chemo-irradiation with the Stupp protocol.
+
+
+
+Table 1. Overview of some previous multi-drug adjuvant regimens from the IIAIGC Study Center using repurposed, older, non-oncology drugs. See the individual papers referenced in the Table for an overview on how each adjuvant drug interferes with glioblastoma’s growth pathways. Omitted from listing or discussion are the traditional or cytotoxic drugs meant to be used with a given proposed regimen. Only the repurposed drugs from general medicine are listed here.
+
+
+
+
+Table 2. List of multiple repurposed drug adjunctive regimens for GB coming from groups other than the IIAIGC Study Center. Omitted from discussion are phytochemicals or non-FDA or EMA approved agents. Also omitted from listing or discussion are the traditional or cytotoxic drugs meant to be used with a proposed regimen. For a given regimen only the repurposed drugs from general medicine are listed.
+
+
+
+Lastakchi S, Olaloko MK, McConville C. A Potential New Treatment for High-
+Grade Glioma: A Study Assessing Repurposed Drug Combinations against Patient-
+Derived High-Grade Glioma Cells. Cancers (Basel). 2022;14(11):2602. doi:10.3390/cancers14112602.
+
+Fig. 1. Diagram of aspects of fluphenazine’s action in inhibiting GB growth. Fluphenazine activates PP2A that dephosphorylates FOXO3a-P allowing FOXO3a to remain in nucleus and inhibit transcription of its target genes. Note that several dopamine and other receptors are inhibited by fluphenazine, but only D2 shown here. Also shown is PP2A’s dephosphorylation [= deactivation] of AKT-P. It is unclear if fluphenazine dephosphorylates FOXO3a-P directly, or indirectly by inactivating AKT.
+
+
+              
+Table 3. List of non-oncology drugs from general medicine use that have been used or proposed for use as multidrug regimen adjuncts to standard GB treatment, listed in alphabetical order with their role in general medical practice or their generally accepted common use. See the individual papers for the rationale for repurposing in GB treatment. Details are provided in the references listed in Tables 1 and 2. Not mentioned here are many individual drugs that have data for and have been reviewed and suggested for possible repurposed addition as a single drug to standard GB treatment. Also omitted from discussion are phytochemicals and non-FDA/EMA approved agents.
+
+
+
+
+Table 4. F-CAPS: Selected drug pharmacological parameters. See text for references. Listed parameters are averages, a wide range can be seen, for some, from half to double the listed values.
+
+
+
+Table 6. List of recent studies of different D2 antagonists that show preclinical inhibition of GB growth. All drugs below except ONC201 are FDA- and/or EMA-approved and marketed to treat thought disorders in humans. ONC201 is in premarketing clinical use in treating GB. Nine of the 19 D2 inhibiting drugs are of the phenothiazine class, P: chlorpromazine, fluphenazine, perphenazine, prochlorperazine, thioridazine, trifluoperazine.  The others belong to various other classes but all inhibit D2.
+Red plus sign + indicates PP2A activation.
+
+
+
+in rat prefrontal cortex, haloperidol
+
