@@ -5,6 +5,5 @@ This project allows gbm patients to ask questions and get simple and accurate an
 ## Running (LOCAL DEV)
 
 ```bash
-/Users/neri/PycharmProjects/gbm-ai/venv/bin/python /Users/neri/PycharmProjects/gbm-ai/main.py insights "The effects of
-fluphenazine on gbm"
+python main.py insights "The effects of fluphenazine on gbm"
 ```
