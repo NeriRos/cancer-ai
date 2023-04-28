@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>GBM AI</title>
+    <link rel="stylesheet" href="static/index.css"/>
+    <script type="application/javascript" src="static/index.js" defer="defer"></script>
 </head>
 <body>
 <h1>Ask any question about GBM</h1>
@@ -10,39 +12,12 @@
     <label>
         <input type="text" name="question" placeholder="Ask a question">
     </label>
-    <input type="submit" value="Ask">
+    <input type="submit" id="submit" value="Ask">
+    <div id="loading" style="display: none">Loading...</div>
 </form>
-<div id="answer">
-    <p id="answer__text"></p>
+<div id="answers">
+    <div id="answers__list"></div>
     <button>Reset</button>
 </div>
-<style>
-    #answer {
-        display: none;
-    }
-</style>
-<script type="application/javascript">
-    document.getElementById('question_form').addEventListener("submit", async function (e) {
-        e.preventDefault();
-        const formData = new FormData(e.target);
-        const response = await sendQuestion(formData.get('question'));
-        await parseAnswer(await response.json())
-    })
-
-    async function sendQuestion(question) {
-        return await fetch('/ask', {
-            method: "POST",
-            body: JSON.stringify({question}),
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        });
-    }
-
-    async function parseAnswer(answer) {
-        document.getElementById('answer__text').innerText = JSON.stringify(answer, null, 2);
-        document.getElementById('answer').style.display = 'block';
-    }
-</script>
 </body>
 </html>

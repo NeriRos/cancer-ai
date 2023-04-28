@@ -5,7 +5,7 @@ from src.lang_chain import init_vector_db
 
 llm, vector_db = init_vector_db()
 
-app = Flask(__name__, template_folder='templates')
+app = Flask(__name__, template_folder='templates', static_folder='templates/static')
 
 
 @app.route('/ask', methods=['POST'])
