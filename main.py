@@ -1,3 +1,5 @@
+from sys import argv
+
 from langchain import OpenAI
 from langchain.embeddings import OpenAIEmbeddings
 
@@ -12,9 +14,10 @@ if __name__ == '__main__':
     content_chunks_documents = get_content_chunks_documents()
 
     vector_db = get_vector_db(content_chunks_documents, embeddings)
-    # question = "Number of patients that were included between August 2016 and April 2018"
-    question = "The effects of fluphenazine on gbm"
 
-    result = generate_insights(llm, vector_db, question)
+    if argv[1] == "insights":
+        question = argv[2]
 
-    print(result)
+        result = generate_insights(llm, vector_db, question)
+
+        print(result)
