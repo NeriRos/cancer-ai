@@ -1,9 +1,9 @@
 from flask import Flask, request, render_template
 
-from main import main
-from src.data_querying import test, generate_insights
+from src.data_querying import generate_insights
+from src.lang_chain import init_vector_db
 
-llm, vector_db = main()
+llm, vector_db = init_vector_db()
 
 app = Flask(__name__, template_folder='templates')
 
@@ -14,8 +14,6 @@ def get_answer():
     answer = generate_insights(llm, vector_db, question)
 
     return answer
-    # return question
-    # return f'User {escape(username)}'
 
 
 @app.route("/")
