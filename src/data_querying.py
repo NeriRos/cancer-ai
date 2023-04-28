@@ -4,6 +4,9 @@ from langchain.chains.summarize import load_summarize_chain
 from langchain.chains import AnalyzeDocumentChain, RetrievalQAWithSourcesChain
 
 
+def test():
+    return "Hello World"
+
 def summarize_text(llm, text_to_summarize):
     summary_chain = load_summarize_chain(llm, chain_type="map_reduce")
     summarize_document_chain = AnalyzeDocumentChain(combine_docs_chain=summary_chain)
