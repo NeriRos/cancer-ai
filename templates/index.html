@@ -9,15 +9,13 @@
 <body>
 <h1>Ask any question about GBM</h1>
 <form id="question_form">
-    <label>
-        <input type="text" name="question" placeholder="Ask a question">
-    </label>
+    <input type="text" name="question" placeholder="Ask a question">
     <input type="submit" id="submit" value="Ask">
     <div id="loading" style="display: none">Loading...</div>
 </form>
 <div id="answers">
     <div id="answers__list"></div>
-    <button>Reset</button>
+    <button id="reset_button" onclick="reset()">Reset</button>
 </div>
 </body>
 </html>

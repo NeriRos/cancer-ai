@@ -37,3 +37,8 @@ function toggleLoading(status) {
         document.getElementById('loading').style.display = 'none';
     }
 }
+
+function reset() {
+    document.getElementById('answers').style.display = 'none';
+    document.getElementById('answers__list').innerHTML = '';
+}

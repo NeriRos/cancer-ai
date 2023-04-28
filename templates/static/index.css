@@ -1,3 +1,89 @@
 #answers {
     display: none;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+/* Style the page title */
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+/* Style the form container */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the form fields */
+form input[type="text"] {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+}
+
+/* Style the submit button */
+#submit {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+/* Style the loading text */
+#loading {
+    display: none;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
+
+
+/* Style the answers list container */
+#answers__list {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the answer divs */
+#answers__list div {
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    background-color: #f7f7f7;
+    border-radius: 0.25rem;
+}
+
+/* Style the reset button */
+#reset_button {
+    margin-top: 2rem;
+    padding: 0.5rem 1rem;
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
