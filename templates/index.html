@@ -7,15 +7,17 @@
     <script type="application/javascript" src="static/index.js" defer="defer"></script>
 </head>
 <body>
-<h1>Ask any question about GBM</h1>
-<form id="question_form">
-    <input type="text" name="question" placeholder="Ask a question">
-    <input type="submit" id="submit" value="Ask">
-    <div id="loading" style="display: none">Loading...</div>
-</form>
-<div id="answers">
-    <div id="answers__list"></div>
-    <button id="reset_button" onclick="reset()">Reset</button>
+<div class="container">
+    <h1>Get insights about GBM</h1>
+    <form id="question_form">
+        <input type="text" name="question" placeholder="Write a topic to get insights about">
+        <input type="submit" id="submit" value="Ask">
+        <div id="loading" style="display: none">Loading...</div>
+    </form>
+    <div id="answers">
+        <div id="answers__list"></div>
+        <button id="reset_button" onclick="reset()">Reset</button>
+    </div>
 </div>
 </body>
 </html>
